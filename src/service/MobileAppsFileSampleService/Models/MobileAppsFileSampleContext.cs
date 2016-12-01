@@ -24,6 +24,8 @@ namespace MobileAppsFileSampleService.Models
 
         public DbSet<TodoItem> TodoItems { get; set; }
 		public DbSet<Users> Users { get; set; }
+		public DbSet<Profiles> Profiles { get; set; }
+		public DbSet<ProfilesId> ProfilesId { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
