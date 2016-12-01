@@ -12,10 +12,7 @@ namespace MobileAppsFileSampleService
 		public bool HasProfile { get; set; }
 		public int MobileKey { get; set; }
 		public int CountryId { get; set; }
-		public DateTime BirthDay { get; set; }
-		public DateTime LastLogin { get; set; }
-
-		[Newtonsoft.Json.JsonIgnore]
-		public string BirthDayDisplay { get { return BirthDay.ToString("d"); } }
+		public DateTimeOffset? BirthDay { get; set; }
+		public DateTimeOffset? LastLogin { get; set; }
 	}
 }
