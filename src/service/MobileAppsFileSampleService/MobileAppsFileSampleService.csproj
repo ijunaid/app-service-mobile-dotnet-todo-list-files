@@ -271,6 +271,10 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="DataObjects\Users.cs" />
     <Compile Include="Controllers\UsersController.cs" />
+    <Compile Include="DataObjects\Profiles.cs" />
+    <Compile Include="DataObjects\ProfilesId.cs" />
+    <Compile Include="Controllers\ProfilesController.cs" />
+    <Compile Include="Controllers\ProfilesIdController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
