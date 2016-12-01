@@ -1,6 +1,6 @@
 ﻿using Microsoft.Azure.Mobile.Server;
 using System;
-namespace MobileAppsFileSampleService
+namespace MobileAppsFileSampleService.DataObjects
 {
 	public class Users : EntityData
 	{

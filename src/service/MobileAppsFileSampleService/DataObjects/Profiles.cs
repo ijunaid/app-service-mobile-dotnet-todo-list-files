@@ -1,5 +1,5 @@
 ﻿using Microsoft.Azure.Mobile.Server;
-namespace MobileAppsFileSampleService
+namespace MobileAppsFileSampleService.DataObjects
 {
 	public class Profiles : EntityData
 	{
