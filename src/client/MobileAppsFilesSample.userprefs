@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{5FA0219F-B063-4D07-800B-CC38BDB5B916}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/TouchPlatform.cs">
+    <Files>
+      <File FileName="../../../../InaApp/InaApp/Handlers/InaAppFileSyncHandler.cs" Line="15" Column="4" />
+      <File FileName="../../../../InaApp/InaApp/Services/AzureService.cs" Line="335" Column="45" />
+      <File FileName="../../../../InaApp/InaApp/Interfaces/IPlatform.cs" Line="18" Column="8" />
+      <File FileName="MobileAppsFilesSample/ViewModels/TodoItemImageViewModel.cs" Line="12" Column="40" />
+      <File FileName="MobileAppsFilesSample/ViewModels/TodoItemViewModel.cs" Line="94" Column="30" />
+      <File FileName="../../../../InaApp/InaApp/Pages/ProfilePage.cs" Line="81" Column="1" />
+      <File FileName="../../../../InaApp/InaApp/DBModels/Profiles.cs" Line="33" Column="21" />
+      <File FileName="../../../../InaApp/InaApp/DBModels/Users.cs" Line="21" Column="3" />
+      <File FileName="../../../../InaApp/InaApp/DBModels/ProfilesId.cs" Line="1" Column="1" />
+      <File FileName="Droid/DroidPlatform.cs" Line="1" Column="1" />
+      <File FileName="../../../../InaApp/iOS/TouchPlatform.cs" Line="27" Column="3" />
+      <File FileName="../../../../InaApp/InaApp/Helpers/FileHelper.cs" Line="40" Column="31" />
+      <File FileName="iOS/TouchPlatform.cs" Line="29" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MobileAppsFilesSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EB2ABB39-DEF4-4219-B29E-4287A28360EB" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Services/AzureService.cs" line="144" column="1" />
+      <Breakpoint enabled="false" file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Services/AzureService.cs" line="276" column="26" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Services/AzureService.cs" line="103" column="1" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Services/AzureService.cs" line="164" column="1" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Services/AzureService.cs" line="170" column="1" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Services/AzureService.cs" line="166" column="1" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Services/AzureService.cs" line="319" column="1" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Services/AzureService.cs" line="330" column="1" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Services/AzureService.cs" line="320" column="1" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Services/AzureService.cs" line="321" column="1" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Services/AzureService.cs" line="328" column="1" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Helpers/FileHelper.cs" line="15" column="1" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Pages/ProfilePage.cs" line="81" column="1" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Pages/ProfilePage.cs" line="80" column="1" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Pages/ProfilePage.cs" line="84" column="1" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Helpers/FileHelper.cs" line="18" column="1" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Helpers/FileHelper.cs" line="20" column="1" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Helpers/FileHelper.cs" line="21" column="23" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Helpers/FileHelper.cs" line="23" column="1" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Helpers/FileHelper.cs" line="25" column="1" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Helpers/FileHelper.cs" line="26" column="1" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Helpers/FileHelper.cs" line="29" column="1" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Services/AzureService.cs" line="246" column="1" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Services/AzureService.cs" line="251" column="1" />
+      <Breakpoint file="/Users/muhammadjunaidakram/Documents/Work/Xamarin/InaApp/InaApp/Services/AzureService.cs" line="255" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,5 +1,11 @@
 ﻿<Properties StartupConfiguration="{209FA716-A7AD-4095-BD70-C8710FC66FA7}|">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MobileAppsFileSampleService/Controllers/TodoItemStorageController.cs">
+    <Files>
+      <File FileName="MobileAppsFileSampleService/Web.config" Line="13" Column="240" />
+      <File FileName="MobileAppsFileSampleService/Controllers/UsersStorgeController.cs" Line="11" Column="20" />
+      <File FileName="MobileAppsFileSampleService/Controllers/TodoItemStorageController.cs" Line="11" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
