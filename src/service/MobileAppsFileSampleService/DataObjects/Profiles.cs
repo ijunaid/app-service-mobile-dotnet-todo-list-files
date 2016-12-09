@@ -3,6 +3,8 @@ namespace MobileAppsFileSampleService.DataObjects
 {
 	public class Profiles : EntityData
 	{
+
+		public new string Id { get; set; }
 		public string UserId { get; set; }
 		public string Name { get; set; }
 		public int BusinessId { get; set; }
