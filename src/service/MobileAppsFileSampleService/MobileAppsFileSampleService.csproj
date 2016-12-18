@@ -260,7 +260,6 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.MobileApp.cs" />
     <Compile Include="Controllers\TodoItemController.cs" />
-    <Compile Include="Controllers\TodoItemStorageController.cs" />
     <Compile Include="DataObjects\TodoItem.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -276,8 +275,6 @@
     <Compile Include="Controllers\ProfilesController.cs" />
     <Compile Include="Controllers\ProfilesIdController.cs" />
     <Compile Include="Controllers\ProfilesStorgeController.cs" />
-    <Compile Include="Controllers\ProfilesIdStorgeController.cs" />
-    <Compile Include="Controllers\UsersStorgeController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
